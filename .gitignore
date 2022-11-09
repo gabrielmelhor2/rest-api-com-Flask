@@ -1,0 +1,10 @@
+/__pycache__
+/Include
+/Lib
+/Scripts
+/.vscode
+/.idea
+.venv
+.env
+pyvenv.cfg
+*.db
